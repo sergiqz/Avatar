@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\boca.o
+./debug\cara.o
+./debug\caradebalon.o
+./debug\caraovalada.o
+./debug\cararedonda.o
+./debug\ojos.o
+./debug\avatar.o
+./debug\moc_mainwindow.o
+);

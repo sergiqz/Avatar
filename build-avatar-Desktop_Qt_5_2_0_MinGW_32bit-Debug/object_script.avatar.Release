@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\boca.o
+./release\cara.o
+./release\caradebalon.o
+./release\caraovalada.o
+./release\cararedonda.o
+./release\ojos.o
+./release\avatar.o
+./release\moc_mainwindow.o
+);
